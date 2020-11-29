@@ -14,6 +14,14 @@ body {
 
 }
 
+.text1 { 
+    padding-bottom: 5px;
+    text-align: center;
+    font-size: 1.3rem;
+    color:rgba(0,0,0,0.75); 
+
+}
+
 .calculator-grid {
 	display: grid;
 	justify-content: center;
